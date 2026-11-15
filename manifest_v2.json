@@ -3,7 +3,7 @@
     "id": "com.hazenotea.richman.watch",
     "restype": "quick_app",
     "name": "环球大富翁",
-    "description": "完全免费。由HazeNoTea制作的大富翁游戏。\n\n游戏复刻经典大宇大富翁游戏，画面精美，经典玩法，掷骰买地，内置人机，含有超多道具、卡牌和事件。",
+    "description": "完全免费。由HazeNoTea制作的大富翁游戏。\n\n《环球大富翁》是一款致敬经典回合制大富翁玩法的地产经营对战游戏。\n\n掷骰前进，买地建房，收取租金，用卡片和道具改变战局。你可以稳健囤地，也可以主动出击，把对手逼到破产边缘。\n\n保留经典大富翁的核心：地块购买与升级、随机事件、卡片道具、医院、资金管理等内容。每一局都充满变数，运气决定开局，策略决定结局。\n\n掷出骰子，规划路线，买下你的地产版图。",
     "preview": [
       "media/封面.png",
       "media/宣传图_1.png",
@@ -22,69 +22,69 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmws4xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmws441": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmws4": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.richman.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.richman.watch.release.1.1.0.rpk",
+      "versionCode": 5
     }
   },
   "ext": {}
